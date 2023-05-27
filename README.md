@@ -9,6 +9,13 @@ One of the paddles is controlled by OSC output sent from a phone with the Gyrosc
 Each paddle determines the pitch of its own sine tone based on the y-position with low pitches representing a y-position near the top of the screen and high pitches representing a y-position near the bottom of the screen.
 The ball also controls a sine tone that has an overlaying bitcrusher effect. Similar to the paddles, the y-position of the ball determines the pitch of the tone. The x-position of the ball controls the panning of the sound.
 A unique sound is played when the ball hits the paddle which is supplied by the imported sound files. Each paddle has a unique sound associated with it.
+A video of the maxpatch in action can be seen below. 
+
+
+https://github.com/kimberlyyip/pong_sonification/assets/113480089/c1f91e89-7b04-4e7e-83de-a93904f6a0c4
+
+
+
 
 ## Artist Statement
 Zev was inspired to do this project for the randomization project earlier this term but decided to use it for the instrument assignment instead, and Kimberly was excited about the idea as well. 
